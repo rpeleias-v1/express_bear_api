@@ -1,0 +1,17 @@
+{
+  "name": "express_bear_api",
+  "version": "1.0.0",
+  "description": "Express Bear API Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Peleias",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "express-load": "^1.1.15",
+    "mongoose": "^4.4.1"
+  }
+}
